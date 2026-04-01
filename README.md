@@ -5,6 +5,7 @@ A simple React learning project to practice GitHub workflows, project structure,
 ## Project purposes
 
 This repository is used to:
+
 - practice building and organizing a small frontend project
 - improve GitHub usage (commits, README quality, iteration)
 - show a clear learning path with practical outputs
@@ -17,17 +18,24 @@ This repository is used to:
 
 ## Run locally
 
-Prerequisites:
+### Prerequisites
+
 - Node.js (LTS recommended)
 
-Steps:
-1. `npm install`
-2. `npm start`
-3. Open `http://localhost:3000`
+### Steps
+
+```bash
+npm install
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000)
 
 ## Build
 
-- `npm run build`
+```bash
+npm run build
+```
 
 ## Tech stack
 
