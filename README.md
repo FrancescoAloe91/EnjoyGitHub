@@ -1,6 +1,7 @@
 # EnjoyGitHub
 
 A simple React learning project to practice GitHub workflows, project structure, and frontend delivery.
+Live demo: [Open the app online](https://enjoy-git-hub.vercel.app/)
 
 ## Project purposes
 
