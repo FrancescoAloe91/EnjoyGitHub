@@ -1,2 +1,48 @@
 # EnjoyGitHub
-A quick way to test and enjoy features of GitHub
+
+A simple React learning project to practice GitHub workflows, project structure, and frontend delivery.
+
+## Project purpose
+
+This repository is used to:
+- practice building and organizing a small frontend project
+- improve GitHub usage (commits, README quality, iteration)
+- show a clear learning path with practical outputs
+
+## Current status
+
+- Initial repository setup completed
+- README upgraded from default template
+- Next step: add/attach the actual app source files and document features
+
+## Run locally
+
+Prerequisites:
+- Node.js (LTS recommended)
+
+Steps:
+1. `npm install`
+2. `npm start`
+3. Open `http://localhost:3000`
+
+## Build
+
+- `npm run build`
+
+## Tech stack
+
+- React
+- React Router
+- Recharts
+
+## Roadmap
+
+- [ ] Add complete app code to this repository
+- [ ] Add screenshots/GIF of the UI
+- [ ] Add feature list per page (Dashboard, Wallet, Markets, Settings)
+- [ ] Add basic test coverage
+- [ ] Improve accessibility and form validation
+
+## Notes
+
+This is a portfolio/learning repository focused on execution, documentation quality, and iterative improvement.
