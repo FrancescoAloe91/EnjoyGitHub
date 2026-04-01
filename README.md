@@ -2,7 +2,7 @@
 
 A simple React learning project to practice GitHub workflows, project structure, and frontend delivery.
 
-## Project purpose
+## Project purposes
 
 This repository is used to:
 - practice building and organizing a small frontend project
